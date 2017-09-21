@@ -6,12 +6,12 @@ Two player pong game, player it on https://ragebill.github.io/Two-Player-Pong/po
 
 Player 1 (Left):
 
-W - Move Up
+"W" - Move Up
 
-S - Move Down
+"S" - Move Down
 
 Player 2 (Right):
 
-Up Arrow - Move Up
+"Up Arrow" - Move Up
 
-Down Arrow - Move Down
+"Down Arrow" - Move Down
